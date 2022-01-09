@@ -10,11 +10,20 @@
 >
 > **Classe Dependente:** classe dependente da relação, ou "classe filha". É nela que reside a chave estrangeira.
 
-<img src="https://github.com/abruno36/AluraWebAPI/blob/master/Alura.WebAPI.WebApp/wwwroot/images/fluxoBase.png" alt="Entidades"/>
+<img src="https://github.com/abruno36/AluraWebAPI/blob/master/Alura.WebAPI.WebApp/wwwroot/images/fluxoBase.png" alt="Fluxo Base"/>
 
-> **Chaves Estrangeiras:** propriedades existentes na classe dependente que guardam o valor da classe principal, podem ser shadow properties.
-
-
+> **Tecnologias:** que estão envolvidas nessa aplicação de exemplo como **Framework Web, Aspnet MVC versão Core**, como persistência: **Entity Framework Core** também. A parte de segurança tem o **login, logout**, registros de usuários, a gente está usando a **Identity**, apresentação das páginas HTML está sendo feita através do **RAZOR** que é a engine padrão do Aspnet MVC.
+>
+<img src="https://github.com/abruno36/AluraWebAPI/blob/master/Alura.WebAPI.WebApp/wwwroot/images/fluxoBase1.png" alt="Fluxo Base"/>
+>
+<img src="https://github.com/abruno36/AluraWebAPI/blob/master/Alura.WebAPI.WebApp/wwwroot/images/ModeloDesign.png" alt="Fluxo Base"/>
+>
+>
+<img src="https://github.com/abruno36/AluraWebAPI/blob/master/Alura.WebAPI.WebApp/wwwroot/images/ModeloDesign1.png" alt="Fluxo Base"/>
+>
+>
+<img src="https://github.com/abruno36/AluraWebAPI/blob/master/Alura.WebAPI.WebApp/wwwroot/images/ModeloDesign2.png" alt="Fluxo Base"/>
+>
 > ## Nível Criticidade
 > - [x] - Alto  
 > - [ ] - Médio  
