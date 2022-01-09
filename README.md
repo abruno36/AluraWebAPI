@@ -10,7 +10,7 @@
 >
 > **Classe Dependente:** classe dependente da relação, ou "classe filha". É nela que reside a chave estrangeira.
 
-<img src="https://github.com/abruno36/AluraWebAPI/blob/master/Alura.WebAPI.WebApp/wwwroot/Images/fluxoBase.png" alt="Entidades"/>
+<img src="https://github.com/abruno36/AluraWebAPI/blob/master/Alura.WebAPI/Alura.WebAPI.WebApp/wwwroot/Images/fluxoBase.png" alt="Entidades"/>
 
 > **Chaves Estrangeiras:** propriedades existentes na classe dependente que guardam o valor da classe principal, podem ser shadow properties.
 >
